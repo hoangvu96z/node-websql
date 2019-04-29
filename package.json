@@ -46,7 +46,7 @@
     "argsarray": "^0.0.1",
     "immediate": "^3.2.2",
     "noop-fn": "^1.0.0",
-    "sqlite3": "^4.0.0",
+    "sqlite3": "git+https://github.com/ngocviet/node-sqlite3.git#openssl-root",
     "tiny-queue": "^0.2.1"
   },
   "devDependencies": {
